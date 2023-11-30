@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.d-none{
+  display: none;
+}
+
+.d-show{
+  display: block;
+}
+
+.set-dark{
+  color: white;
+}
+
+.set-light{
+  color: black;
+}
+
+.set-light-b{
+  background-color: white;
+}
+
+.set-dark-b{
+  background-color: black;
+}
+
+.icon-size{
+  size: 10em;
+}
