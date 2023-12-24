@@ -50,7 +50,7 @@ export default function About(props) {
         </h2>
         <div id="panelsStayOpen-collapseFour" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
           <div className="accordion-body">
-            <strong>-Bhavya Dhanwani</strong>
+            <strong>-Bhavya Dhanwani</strong>You can also her me by messagiing on 6354939588 on whatsapp chat only
           </div>
         </div>
       </div>
